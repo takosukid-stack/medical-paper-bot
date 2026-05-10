@@ -1,3 +1,12 @@
 {
-  "reported_pmids": {}
+  "reported_pmids": {
+    "42103356": {
+      "title": "Phase 1 multicenter study of the NKG2A targeting antibody S095029 as a single agent and in combination with anti-PD-1 in patients with advanced malignancies.",
+      "reported_at": "2026-05-10T05:18:33.897462"
+    },
+    "42085627": {
+      "title": "Potent anti-tumor activity of the AXL-targeted antibody-drug conjugate, mipasetamab uzoptirine (ADCT-601), in preclinical models of adenoid cystic carcinoma.",
+      "reported_at": "2026-05-10T05:18:33.897462"
+    }
+  }
 }
