@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42103356": {
-      "title": "Phase 1 multicenter study of the NKG2A targeting antibody S095029 as a single agent and in combination with anti-PD-1 in patients with advanced malignancies.",
-      "reported_at": "2026-05-10T05:18:33.897462"
-    },
-    "42085627": {
-      "title": "Potent anti-tumor activity of the AXL-targeted antibody-drug conjugate, mipasetamab uzoptirine (ADCT-601), in preclinical models of adenoid cystic carcinoma.",
-      "reported_at": "2026-05-10T05:18:33.897462"
-    },
     "41894647": {
       "title": "Phase I Study of Mosperafenib, a Novel Paradox Breaker B-Raf Proto-Oncogene Serine/Threonine Kinase (BRAF) Inhibitor, in Patients With <i>BRAF</i> V600-Mutant Solid Tumors.",
       "reported_at": "2026-05-11T10:49:02.497018"
@@ -2827,6 +2819,26 @@
     "42722602": {
       "title": "Retrospective evaluation of minimally invasive surgical strategies in ovarian neoplasms (REMISSION study): oncological outcomes.",
       "reported_at": "2026-11-06T01:58:32.915281"
+    },
+    "42345353": {
+      "title": "Combining quizartinib with intensive chemotherapy for older patients with newly diagnosed AML: results of the UK NCRI AML18 trial.",
+      "reported_at": "2026-11-07T01:30:57.528029"
+    },
+    "42987486": {
+      "title": "Efficacy and safety of chimeric antigen receptor T-cell therapy versus standard treatment in hemato-oncology: A systematic review and meta-analysis.",
+      "reported_at": "2026-11-07T01:30:57.528029"
+    },
+    "42963911": {
+      "title": "Eltrombopag during induction chemotherapy in older patients with newly diagnosed acute myeloid leukemia is safe and reduces platelet transfusion requirements: The EPAG-2015 French Innovative Leukemia Organization phase 2 randomized trial.",
+      "reported_at": "2026-11-07T01:30:57.528029"
+    },
+    "42986895": {
+      "title": "Tyrosine kinase inhibitors are associated with reduced AML transformation in systemic mastocytosis with myeloid neoplasm.",
+      "reported_at": "2026-11-07T01:30:57.528029"
+    },
+    "42502080": {
+      "title": "Romiplostim for chemotherapy induced thrombocytopenia in pediatric cancers.",
+      "reported_at": "2026-11-07T01:30:57.528029"
     }
   }
 }
