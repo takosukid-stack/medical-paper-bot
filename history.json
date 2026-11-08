@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41894647": {
-      "title": "Phase I Study of Mosperafenib, a Novel Paradox Breaker B-Raf Proto-Oncogene Serine/Threonine Kinase (BRAF) Inhibitor, in Patients With <i>BRAF</i> V600-Mutant Solid Tumors.",
-      "reported_at": "2026-05-11T10:49:02.497018"
-    },
-    "42085635": {
-      "title": "Neoadjuvant Single-Cycle Pembrolizumab for Stage I-III MMR-Deficient Colon Cancer: The RESET-C Trial.",
-      "reported_at": "2026-05-11T10:49:02.497018"
-    },
-    "42101872": {
-      "title": "Predictive factors for early mortality after regorafenib or trifluridine/tipiracil initiation in metastatic colorectal cancer.",
-      "reported_at": "2026-05-11T10:49:02.497018"
-    },
-    "41992834": {
-      "title": "Predictive factors for early mortality after regorafenib or trifluridine/tipiracil initiation in metastatic colorectal cancer.",
-      "reported_at": "2026-05-11T10:49:02.497018"
-    },
-    "42102826": {
-      "title": "Long-term effects of colonoscopy screening on colorectal cancer incidence and mortality: a multicountry, population-based randomised controlled trial.",
-      "reported_at": "2026-05-11T10:49:02.497018"
-    },
     "42102976": {
       "title": "A Multi-Analyte cfDNA-based Blood Test for Early Detection of Hepatocellular Carcinoma.",
       "reported_at": "2026-05-12T08:10:38.490434"
@@ -2839,6 +2819,14 @@
     "42502080": {
       "title": "Romiplostim for chemotherapy induced thrombocytopenia in pediatric cancers.",
       "reported_at": "2026-11-07T01:30:57.528029"
+    },
+    "42981545": {
+      "title": "Circulating Tumor DNA Profiling Across Phase II/III Ewing Sarcoma Trials Identifies High-Risk Patients With <i>TP53</i>, <i>STAG2</i>, and <i>CDKN2A</i> Alterations.",
+      "reported_at": "2026-11-08T00:59:36.522455"
+    },
+    "42984346": {
+      "title": "Variant-Selective and Pan-RAS Inhibitors Enhance Targeted Agent Activity in Patient-Derived Multi-cell-type Tumor Spheroids.",
+      "reported_at": "2026-11-08T00:59:36.522455"
     }
   }
 }
