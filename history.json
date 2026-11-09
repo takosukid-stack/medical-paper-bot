@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42102976": {
-      "title": "A Multi-Analyte cfDNA-based Blood Test for Early Detection of Hepatocellular Carcinoma.",
-      "reported_at": "2026-05-12T08:10:38.490434"
-    },
-    "42095607": {
-      "title": "The Albumin-Bilirubin score predicts outcomes in advanced biliary tract cancer treated with durvalumab immunochemotherapy.",
-      "reported_at": "2026-05-12T08:10:38.490434"
-    },
     "42090791": {
       "title": "Daraxonrasib in Previously Treated Advanced <i>RAS</i>-Mutated Pancreatic Cancer.",
       "reported_at": "2026-05-13T08:23:41.886659"
@@ -2827,6 +2819,26 @@
     "42984346": {
       "title": "Variant-Selective and Pan-RAS Inhibitors Enhance Targeted Agent Activity in Patient-Derived Multi-cell-type Tumor Spheroids.",
       "reported_at": "2026-11-08T00:59:36.522455"
+    },
+    "42993920": {
+      "title": "Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial.",
+      "reported_at": "2026-11-09T01:22:32.512131"
+    },
+    "42974832": {
+      "title": "Risk of Distant Metastasis and Oncologic Outcomes of Clinical Near-Complete Responders After Neoadjuvant Therapy in Rectal Cancer: A Meta-Analysis.",
+      "reported_at": "2026-11-09T01:22:32.512131"
+    },
+    "42974837": {
+      "title": "Differences in Presentation and Prognosis of Early versus Late Diagnosis of Locoregional Recurrences after Colon Cancer Resection: A Nationwide Cohort Study.",
+      "reported_at": "2026-11-09T01:22:32.512131"
+    },
+    "42974829": {
+      "title": "Long-term (≥ 5 Years) Low Anterior Resection Syndrome and Health Related Quality of Life in Rectal Cancer Patients: A Systematic Review.",
+      "reported_at": "2026-11-09T01:22:32.512131"
+    },
+    "42979827": {
+      "title": "Rethinking Low Anterior Resection Syndrome: Higher Than Expected Pre-Surgical Incidence and the Role of Gut Microbes.",
+      "reported_at": "2026-11-09T01:22:32.512131"
     }
   }
 }
