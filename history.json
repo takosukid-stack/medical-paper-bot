@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42090791": {
-      "title": "Daraxonrasib in Previously Treated Advanced <i>RAS</i>-Mutated Pancreatic Cancer.",
-      "reported_at": "2026-05-13T08:23:41.886659"
-    },
-    "42108563": {
-      "title": "Prediction of resection after preoperative FOLFIRINOX in patients with localized pancreatic adenocarcinoma: a Trans-Atlantic Pancreatic Surgery (TAPS) Consortium study.",
-      "reported_at": "2026-05-13T08:23:41.886659"
-    },
-    "42112592": {
-      "title": "Pancreatic MRI Findings in High-Risk Individuals Compared with Matched Average-Risk Individuals.",
-      "reported_at": "2026-05-13T08:23:41.886659"
-    },
-    "42113576": {
-      "title": "ATM Deficiency Induces TGF-β-Mediated Stromal Programming in Pancreatic Cancer.",
-      "reported_at": "2026-05-13T08:23:41.886659"
-    },
-    "42114409": {
-      "title": "The SHERPA trial: A phase I study combining SHP2 inhibitor RMC-4630 and ERK inhibitor LY3214996 in patients with KRAS-mutant pancreatic, non-small cell lung and colorectal cancer.",
-      "reported_at": "2026-05-13T08:23:41.886659"
-    },
     "42113328": {
       "title": "Comparison of long-term outcomes of robotic gastrectomy and laparoscopic gastrectomy using the modified age-adjusted Charlson Comorbidity Index.",
       "reported_at": "2026-05-14T08:10:16.234792"
@@ -2839,6 +2819,22 @@
     "42979827": {
       "title": "Rethinking Low Anterior Resection Syndrome: Higher Than Expected Pre-Surgical Incidence and the Role of Gut Microbes.",
       "reported_at": "2026-11-09T01:22:32.512131"
+    },
+    "42973183": {
+      "title": "Remembering Stiffness: HCC Maintains Malignancy through Heritable Hyperacetylation Driven by Mechanically Mediated Acetyl-CoA Levels.",
+      "reported_at": "2026-11-10T03:56:16.516753"
+    },
+    "42159460": {
+      "title": "Enhanced Antitumor Efficacy of Combined PTC596 and PD-1 Blockade in Hepatocellular Carcinoma.",
+      "reported_at": "2026-11-10T03:56:16.516753"
+    },
+    "42999985": {
+      "title": "The Transformation of Oncology Drug Development in China: Toward a New Phase of Innovation.",
+      "reported_at": "2026-11-10T03:56:16.516753"
+    },
+    "42456177": {
+      "title": "Therapeutic Targeting of β-Catenin in Cancer.",
+      "reported_at": "2026-11-10T03:56:16.516753"
     }
   }
 }
