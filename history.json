@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42134356": {
-      "title": "Addition of autologous stem-cell transplantation to an ibrutinib-containing first-line treatment in patients aged 18-65 years with mantle cell lymphoma (TRIANGLE): 4·5-year follow-up of a three-arm, randomised, open-label, phase 3 superiority trial of the European MCL Network.",
-      "reported_at": "2026-05-16T06:40:29.244146"
-    },
-    "41538708": {
-      "title": "PU.1-activated genomic regions define low-risk MDS subsets characterized by immune dysregulation and disease progression.",
-      "reported_at": "2026-05-16T06:40:29.244146"
-    },
-    "41770089": {
-      "title": "Efficacy and Safety of Belantamab Mafodotin with Bortezomib plus Dexamethasone in Patients with Relapsed/Refractory Multiple Myeloma: The DREAMM-6 Arm B Trial.",
-      "reported_at": "2026-05-16T06:40:29.244146"
-    },
-    "42089460": {
-      "title": "Clonal hematopoiesis in patients with cancer and cancer survivors: From clonal burden to cardiovascular diseases.",
-      "reported_at": "2026-05-16T06:40:29.244146"
-    },
-    "41941697": {
-      "title": "First-in-Human Study of IL15-Activated Cytokine-Induced Killer Cells After Allogeneic HCT Shows Durable Remission and Serotherapy-Associated Immune Reconstitution in Leukemia.",
-      "reported_at": "2026-05-16T06:40:29.244146"
-    },
     "42141895": {
       "title": "Dose Reduction of Preoperative Radiotherapy in Myxoid Liposarcoma: The Phase 2 DOREMY Nonrandomized Clinical Trial.",
       "reported_at": "2026-05-17T07:44:18.240885"
@@ -2831,6 +2811,26 @@
     "43006918": {
       "title": "Advancing gastric cancer prevention in the United States: perspectives from a congressional forum.",
       "reported_at": "2026-11-12T02:39:32.824564"
+    },
+    "43013925": {
+      "title": "BEHOLD phase 3 clinical development program of mocertatug rezetecan in ovarian and endometrial cancer.",
+      "reported_at": "2026-11-13T02:19:51.635738"
+    },
+    "43008586": {
+      "title": "Surgical management of cervical cancer: A Society of Gynecologic Oncology evidence-based review.",
+      "reported_at": "2026-11-13T02:19:51.635738"
+    },
+    "42994080": {
+      "title": "Prophylactic extended-field irradiation versus pelvic radiotherapy in high-risk locally advanced cervical cancer with radiologically negative para-aortic lymph nodes: a retrospective cohort study.",
+      "reported_at": "2026-11-13T02:19:51.635738"
+    },
+    "43015360": {
+      "title": "Toxicity, health-related quality of life and sexuality after molecular profile-based adjuvant treatment in high-intermediate risk endometrial cancer, PORTEC-4a.",
+      "reported_at": "2026-11-13T02:19:51.635738"
+    },
+    "43003063": {
+      "title": "Barriers to treatment for patients diagnosed with cervical cancer: A systematic review.",
+      "reported_at": "2026-11-13T02:19:51.635738"
     }
   }
 }
