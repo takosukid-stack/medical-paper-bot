@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42141895": {
-      "title": "Dose Reduction of Preoperative Radiotherapy in Myxoid Liposarcoma: The Phase 2 DOREMY Nonrandomized Clinical Trial.",
-      "reported_at": "2026-05-17T07:44:18.240885"
-    },
-    "41378983": {
-      "title": "Efficacy and CNS Toxicity of Nivolumab and Ipilimumab in Rare Cancer Brain Metastases: A Multicenter Basket Trial Analysis (NCI/SWOG S1609).",
-      "reported_at": "2026-05-17T07:44:18.240885"
-    },
     "41671078": {
       "title": "Circulating Tumor DNA Dynamics and Clinical Outcomes in Patients with Advanced Colorectal Cancer Treated with Cetuximab-Based Induction and Maintenance Treatment.",
       "reported_at": "2026-05-18T11:57:32.617751"
@@ -2831,6 +2823,26 @@
     "43003063": {
       "title": "Barriers to treatment for patients diagnosed with cervical cancer: A systematic review.",
       "reported_at": "2026-11-13T02:19:51.635738"
+    },
+    "43023552": {
+      "title": "Optimizing Reduced-Intensity Conditioning for Older Patients with AML and MDS: A Large-Scale Analysis from the CIBMTR.",
+      "reported_at": "2026-11-14T01:57:28.924323"
+    },
+    "43002730": {
+      "title": "Modeling Long-Term Progression-Free Survival in Newly Diagnosed Multiple Myeloma Treated With Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone.",
+      "reported_at": "2026-11-14T01:57:28.924323"
+    },
+    "43024836": {
+      "title": "Early Treatment Failure in Patients With Relapsed/Refractory Multiple Myeloma Receiving Bispecific T-Cell Engagers: Development and Validation of the CHARGE Prognostic Index.",
+      "reported_at": "2026-11-14T01:57:28.924323"
+    },
+    "42485767": {
+      "title": "CD70 overexpression at diagnosis predicts relapse and supports dual CD19-CD70 CAR T-cell therapy in follicular lymphoma.",
+      "reported_at": "2026-11-14T01:57:28.924323"
+    },
+    "43015369": {
+      "title": "Mediator kinase inhibition exposes a transcriptional vulnerability and synergizes with venetoclax in AML.",
+      "reported_at": "2026-11-14T01:57:28.924323"
     }
   }
 }
