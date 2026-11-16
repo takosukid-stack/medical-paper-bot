@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "41671078": {
-      "title": "Circulating Tumor DNA Dynamics and Clinical Outcomes in Patients with Advanced Colorectal Cancer Treated with Cetuximab-Based Induction and Maintenance Treatment.",
-      "reported_at": "2026-05-18T11:57:32.617751"
-    },
-    "41905242": {
-      "title": "Aflibercept and 5-FU vs. FOLFOX as 1st line treatment for older adults or frail elderly patients with metastatic colorectal cancer - The randomized phase 2 AIO / IKF ELDERLY trial (AIO-KRK-0117 / IKF 629).",
-      "reported_at": "2026-05-18T11:57:32.617751"
-    },
-    "42142622": {
-      "title": "Preclinical characterization and phase 1 results of TQB2102, a first-in-class HER2 biparatopic antibody-drug conjugate, in patients with advanced solid tumors.",
-      "reported_at": "2026-05-18T11:57:32.617751"
-    },
-    "42126206": {
-      "title": "Mismatch Repair-Proficient Colorectal Cancer can evade Immune Surveillance Through an Intrinsic Suppressive Program.",
-      "reported_at": "2026-05-18T11:57:32.617751"
-    },
-    "41661672": {
-      "title": "FASN Inhibition Enhances the Efficacy of Chemotherapy in Colorectal Cancer by Inhibiting the DNA Damage Response.",
-      "reported_at": "2026-05-18T11:57:32.617751"
-    },
-    "42139645": {
-      "title": "Overall Survival Among Patients With Hepatocellular Carcinoma Treated With External Beam Radiation Therapy: Individual Patient Data Outcomes From a Multinational Cohort.",
-      "reported_at": "2026-05-19T10:49:32.118161"
-    },
-    "41770235": {
-      "title": "Pembrolizumab Monotherapy in Sorafenib-Treated and Treatment-Naïve Advanced Hepatocellular Carcinoma: Long-Term Follow-up of the Open-Label, Phase II KEYNOTE-224 Study.",
-      "reported_at": "2026-05-19T10:49:32.118161"
-    },
-    "41923341": {
-      "title": "Clinicogenomic and Histopathologic Analyses of Supermassive Intrahepatic Cholangiocarcinoma and the Role of Ablative Radiotherapy.",
-      "reported_at": "2026-05-19T10:49:32.118161"
-    },
-    "42126314": {
-      "title": "Continuation of First-Line Systemic Therapy with Progression-Directed Radiotherapy in Patients with Oligoprogressive Hepatocellular Carcinoma: A Multicenter, Single-Arm, Phase II Trial.",
-      "reported_at": "2026-05-19T10:49:32.118161"
-    },
-    "41935493": {
-      "title": "Clinical impact of extrahepatic metastatic patterns in patients with unresectable hepatocellular carcinoma treated with atezolizumab and bevacizumab.",
-      "reported_at": "2026-05-19T10:49:32.118161"
-    },
     "41921365": {
       "title": "Second-line liposomal irinotecan plus S-1 vs. liposomal irinotecan plus 5-fluorouracil in metastatic pancreatic cancer: The phase I/II randomized NAPAN trial.",
       "reported_at": "2026-05-20T10:31:53.325084"
@@ -2843,6 +2803,22 @@
     "43015369": {
       "title": "Mediator kinase inhibition exposes a transcriptional vulnerability and synergizes with venetoclax in AML.",
       "reported_at": "2026-11-14T01:57:28.924323"
+    },
+    "42925880": {
+      "title": "14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.",
+      "reported_at": "2026-11-16T01:31:34.157061"
+    },
+    "43006908": {
+      "title": "US geographical disparities in young-onset colorectal cancer mortality, 1990-2023.",
+      "reported_at": "2026-11-16T01:31:34.157061"
+    },
+    "43025066": {
+      "title": "Factors associated with chemotherapy free interval (CFI) after induction chemotherapy in metastatic colorectal cancer (mCRC) based on a meta-analysis on ARCAD CRC database: The CFI-SCORE project.",
+      "reported_at": "2026-11-16T01:31:34.157061"
+    },
+    "43017865": {
+      "title": "Comparative Outcomes of CREATE Versus Conventional Double-Stapling Technique for Ultralow Rectal Cancer: A Multicenter Propensity-Matched Analysis.",
+      "reported_at": "2026-11-16T01:31:34.157061"
     }
   }
 }
