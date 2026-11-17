@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41921365": {
-      "title": "Second-line liposomal irinotecan plus S-1 vs. liposomal irinotecan plus 5-fluorouracil in metastatic pancreatic cancer: The phase I/II randomized NAPAN trial.",
-      "reported_at": "2026-05-20T10:31:53.325084"
-    },
-    "42133398": {
-      "title": "Targeting the αvβ5 Integrin Modifies the TGF-β-Rich Tumor Microenvironment of Pancreatic Cancer.",
-      "reported_at": "2026-05-20T10:31:53.325084"
-    },
-    "42118569": {
-      "title": "Germline genetic testing among patients with pancreatic adenocarcinoma: A Pancreatic Cancer Action Network patient survey.",
-      "reported_at": "2026-05-20T10:31:53.325084"
-    },
-    "41661642": {
-      "title": "Spatial Multiomics Analyses Reveal That Diabetes Promotes Pancreatic Cancer Progression by Stimulating Cholesterol-Induced Neutrophil Extracellular Trap Formation.",
-      "reported_at": "2026-05-20T10:31:53.325084"
-    },
-    "42132515": {
-      "title": "The Epidemiology of PRSS1 Hereditary Pancreatitis and its Clinical Implications: A Systematic Review.",
-      "reported_at": "2026-05-20T10:31:53.325084"
-    },
     "42133181": {
       "title": "Adherence to pro-vegetarian dietary patterns and gastric cancer risk: a pooled analysis of the StoP Consortium.",
       "reported_at": "2026-05-21T10:54:53.689169"
@@ -2819,6 +2799,10 @@
     "43017865": {
       "title": "Comparative Outcomes of CREATE Versus Conventional Double-Stapling Technique for Ultralow Rectal Cancer: A Multicenter Propensity-Matched Analysis.",
       "reported_at": "2026-11-16T01:31:34.157061"
+    },
+    "43012674": {
+      "title": "Latent Squamous Plasticity Licensed by Chromatin-State Remodeling Dictates Therapeutic Susceptibility in Cholangiocarcinoma.",
+      "reported_at": "2026-11-17T04:16:16.071336"
     }
   }
 }
