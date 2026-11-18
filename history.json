@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42133181": {
-      "title": "Adherence to pro-vegetarian dietary patterns and gastric cancer risk: a pooled analysis of the StoP Consortium.",
-      "reported_at": "2026-05-21T10:54:53.689169"
-    },
-    "42149288": {
-      "title": "Tackling similarities and differences in global practice guidelines for gastric cancer: a review on the latest Taiwan guidelines with Asia-Pacific, European and US guidelines.",
-      "reported_at": "2026-05-21T10:54:53.689169"
-    },
-    "41790455": {
-      "title": "FDA Approval Summary: Pembrolizumab for the Treatment of HER2-Positive Gastric Cancer.",
-      "reported_at": "2026-05-21T10:54:53.689169"
-    },
-    "42159596": {
-      "title": "Treatment outcomes of trastuzumab-based chemotherapy in patients with HER2-positive gastric cancer: A nationwide retrospective cohort study.",
-      "reported_at": "2026-05-21T10:54:53.689169"
-    },
-    "42154345": {
-      "title": "Artificial intelligence-based anatomical recognition improves surgeon decision-making during robotic gastrectomy.",
-      "reported_at": "2026-05-21T10:54:53.689169"
-    },
     "42139816": {
       "title": "Endometrial cancer: A Society of Gynecologic Oncology evidence-based review and recommendations, part II.",
       "reported_at": "2026-05-22T10:32:33.339637"
@@ -2803,6 +2783,22 @@
     "43012674": {
       "title": "Latent Squamous Plasticity Licensed by Chromatin-State Remodeling Dictates Therapeutic Susceptibility in Cholangiocarcinoma.",
       "reported_at": "2026-11-17T04:16:16.071336"
+    },
+    "42869861": {
+      "title": "Survival benefit of recurrence-focused treatment after surgery for pancreatic ductal adenocarcinoma: A propensity score matched analysis of patients from a Dutch National and US institutional cohort.",
+      "reported_at": "2026-11-18T03:16:52.061976"
+    },
+    "43042789": {
+      "title": "Targeting SUMOylation in Combination with Agonistic Anti-CD40 Therapy Activates Anti- Tumor Immunity to Control Pancreatic Cancer.",
+      "reported_at": "2026-11-18T03:16:52.061976"
+    },
+    "43038365": {
+      "title": "Predictors of Fecal Elastase Testing Completion in Outpatient and Inpatient Settings: A Single Center Retrospective Analysis.",
+      "reported_at": "2026-11-18T03:16:52.061976"
+    },
+    "43024803": {
+      "title": "Pathologic and Molecular Characterization of Branch Duct Intraductal Papillary Mucinous Neoplasm With Advanced Neoplasia Under-Recognized by Kyoto High-Risk Stigmata.",
+      "reported_at": "2026-11-18T03:16:52.061976"
     }
   }
 }
