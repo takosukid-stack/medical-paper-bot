@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42178223": {
-      "title": "Toxicity-over-time analysis of anti-EGFR-based maintenance versus stop&go in left-sided, RAS/BRAF wild-type metastatic colorectal cancer.",
-      "reported_at": "2026-05-25T12:03:00.570600"
-    },
-    "41564372": {
-      "title": "Randomized Phase II/III Trial Comparing Hepatectomy, Followed by mFOLFOX6 With Hepatectomy Alone for Liver Metastasis From Colorectal Cancer: Long-Term Results of JCOG0603.",
-      "reported_at": "2026-05-25T12:03:00.570600"
-    },
-    "42149121": {
-      "title": "Glycoprotein mucin 13 expression as a theranostic target in colorectal cancer.",
-      "reported_at": "2026-05-25T12:03:00.570600"
-    },
-    "41616224": {
-      "title": "Tissue-Free Circulating Tumor DNA Assay and Patient Outcome in a Phase III Trial of FOLFOX-Based Adjuvant Chemotherapy (Alliance N0147).",
-      "reported_at": "2026-05-25T12:03:00.570600"
-    },
-    "42154581": {
-      "title": "Senescent-like neutrophils shape angiogenic immunosuppressive niches in colorectal cancer liver metastasis.",
-      "reported_at": "2026-05-25T12:03:00.570600"
-    },
     "42189892": {
       "title": "Clinical and molecular correlates of circulating tumor fraction in patients with metastatic pancreatic ductal adenocarcinoma.",
       "reported_at": "2026-05-27T11:07:09.516494"
@@ -2815,6 +2795,18 @@
     "43063370": {
       "title": "Effect of a Multidisciplinary Intervention on Fatigue in Lymphoma Survivors With Persistent Fatigue: A Randomized Controlled Trial (the REFUEL trial).",
       "reported_at": "2026-11-21T02:58:06.627419"
+    },
+    "42858623": {
+      "title": "Pain in epithelioid hemangioendothelioma: Development of disease-specific pain assessment criteria (PAC-E).",
+      "reported_at": "2026-11-22T01:51:25.808525"
+    },
+    "42691240": {
+      "title": "Integrated Organoid CRISPR Screening Reveals NF1 as a Gatekeeper of Cervical Squamous Malignant Transformation.",
+      "reported_at": "2026-11-22T01:51:25.808525"
+    },
+    "43046312": {
+      "title": "In Vivo Efficacy of Replication Stress Targeted Therapy in Ewing Sarcoma.",
+      "reported_at": "2026-11-22T01:51:25.808525"
     }
   }
 }
