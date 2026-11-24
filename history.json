@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42189892": {
-      "title": "Clinical and molecular correlates of circulating tumor fraction in patients with metastatic pancreatic ductal adenocarcinoma.",
-      "reported_at": "2026-05-27T11:07:09.516494"
-    },
-    "42162970": {
-      "title": "A New CA19-9 Cutoff Value Identifies Lewis Antigen Status and Refines Prognostic Stratification in PDAC.",
-      "reported_at": "2026-05-27T11:07:09.516494"
-    },
-    "42165710": {
-      "title": "Asynchronous evolution of epithelium and stroma differentiates precursor lesions from pancreatic cancer.",
-      "reported_at": "2026-05-27T11:07:09.516494"
-    },
     "42183946": {
       "title": "Feasibility study of cap-assisted endoscopic mucosal resection for gastric adenocarcinoma of fundic gland type.",
       "reported_at": "2026-05-28T11:54:34.721354"
@@ -2827,6 +2815,18 @@
     "42734483": {
       "title": "The mRNA-Based Therapeutic Vaccine NTX250 Induces Potent Antitumor Immunity in HPV-Driven Cancers.",
       "reported_at": "2026-11-23T02:07:57.678162"
+    },
+    "42814439": {
+      "title": "Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+      "reported_at": "2026-11-24T05:42:33.857612"
+    },
+    "43053293": {
+      "title": "Post-surgical ctDNA as a prognostic biomarker for relapse of resected cholangiocarcinoma.",
+      "reported_at": "2026-11-24T05:42:33.857612"
+    },
+    "43063487": {
+      "title": "The first-in-class SFK 'OFF' inhibitor NXP900 suppresses YAP signaling and demonstrates tumor growth suppression in cholangiocarcinoma.",
+      "reported_at": "2026-11-24T05:42:33.857612"
     }
   }
 }
