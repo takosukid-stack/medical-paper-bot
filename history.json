@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42183946": {
-      "title": "Feasibility study of cap-assisted endoscopic mucosal resection for gastric adenocarcinoma of fundic gland type.",
-      "reported_at": "2026-05-28T11:54:34.721354"
-    },
-    "42171983": {
-      "title": "Prognostic implications of tissue-based homologous recombination deficiency in metastatic gastric cancer treated with immune checkpoint inhibitor plus chemotherapy.",
-      "reported_at": "2026-05-28T11:54:34.721354"
-    },
-    "42177028": {
-      "title": "Autologous T Cell Antigen Coupler Targeting HER2 (TAC01-HER2) in Advanced or Metastatic Solid Tumors.",
-      "reported_at": "2026-05-28T11:54:34.721354"
-    },
-    "42166134": {
-      "title": "Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.",
-      "reported_at": "2026-05-28T11:54:34.721354"
-    },
-    "42173653": {
-      "title": "Targeting VEGF signaling and stromal remodeling enhances chemoimmunotherapy efficacy in esophageal cancer.",
-      "reported_at": "2026-05-28T11:54:34.721354"
-    },
     "42190623": {
       "title": "Molecular classification and association with survival outcomes in high-intermediate and high-risk early-stage endometrial cancers: Ancillary analysis of GOG-0249.",
       "reported_at": "2026-05-29T10:59:36.571878"
@@ -2827,6 +2807,18 @@
     "43063487": {
       "title": "The first-in-class SFK 'OFF' inhibitor NXP900 suppresses YAP signaling and demonstrates tumor growth suppression in cholangiocarcinoma.",
       "reported_at": "2026-11-24T05:42:33.857612"
+    },
+    "43076691": {
+      "title": "FYN and Other Src Family Kinases Antagonize Response to RAS Inhibition in Pancreatic Ductal Adenocarcinoma.",
+      "reported_at": "2026-11-25T04:44:42.086358"
+    },
+    "43076663": {
+      "title": "Temporal Phosphoproteomic Analysis Identifies Src Family Kinases as Key Mediators of Adaptive Resistance to KRAS Inhibition in Pancreatic Cancer.",
+      "reported_at": "2026-11-25T04:44:42.086358"
+    },
+    "43055344": {
+      "title": "PHGDH Inhibition Confers a Targetable Glutamine Dependency in Pancreatic Cancer.",
+      "reported_at": "2026-11-25T04:44:42.086358"
     }
   }
 }
