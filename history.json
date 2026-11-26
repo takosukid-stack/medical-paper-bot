@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42190623": {
-      "title": "Molecular classification and association with survival outcomes in high-intermediate and high-risk early-stage endometrial cancers: Ancillary analysis of GOG-0249.",
-      "reported_at": "2026-05-29T10:59:36.571878"
-    },
-    "42189877": {
-      "title": "PiggyBac-engineered membrane-bound IL-7 TILs combined with anti-PD-1 antibody demonstrates efficacy in recurrent ovarian cancer: a first-in-human phase 1 trial.",
-      "reported_at": "2026-05-29T10:59:36.571878"
-    },
-    "42176362": {
-      "title": "Molecular and spatial differences in the tumor microenvironment of high-grade serous ovarian cancers with short versus long-term survival.",
-      "reported_at": "2026-05-29T10:59:36.571878"
-    },
-    "42172993": {
-      "title": "Innovation through standardization: Reducing the ileostomy rates while targeting zero anastomotic leaks at cytoreductive surgery.",
-      "reported_at": "2026-05-29T10:59:36.571878"
-    },
-    "42170817": {
-      "title": "Ovarian Cancer Outcomes Improve with Fasting During Chemotherapy.",
-      "reported_at": "2026-05-29T10:59:36.571878"
-    },
     "41785374": {
       "title": "Nonmyeloablative conditioning combined with the anti-CD117 antibody briquilimab in older adults with high-risk AML and MDS.",
       "reported_at": "2026-05-30T08:01:52.554048"
@@ -2819,6 +2799,14 @@
     "43055344": {
       "title": "PHGDH Inhibition Confers a Targetable Glutamine Dependency in Pancreatic Cancer.",
       "reported_at": "2026-11-25T04:44:42.086358"
+    },
+    "43062571": {
+      "title": "Proposal of modified gastric cancer RECIST (mgcRECIST): CT-based criteria for response assessment in metastatic gastric cancer.",
+      "reported_at": "2026-11-26T03:52:38.711042"
+    },
+    "43084004": {
+      "title": "Consensus on procedural steps and end-product definition for robotic distal and total gastrectomy with D2 lymphadenectomy: the MASTER-D2 Delphi study.",
+      "reported_at": "2026-11-26T03:52:38.711042"
     }
   }
 }
