@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41785374": {
-      "title": "Nonmyeloablative conditioning combined with the anti-CD117 antibody briquilimab in older adults with high-risk AML and MDS.",
-      "reported_at": "2026-05-30T08:01:52.554048"
-    },
-    "42212933": {
-      "title": "Teclistamab in Multiple Myeloma with One to Three Previous Lines of Therapy.",
-      "reported_at": "2026-05-30T08:01:52.554048"
-    },
-    "42213644": {
-      "title": "IL-16 production is a mechanism of resistance to BTK inhibitors and R-CHOP in lymphomas.",
-      "reported_at": "2026-05-30T08:01:52.554048"
-    },
-    "42189874": {
-      "title": "A first-in-pediatric study of ALRN-6924, a novel stapled-peptide dual MDM2/MDMX inhibitor, for children with advanced hematologic and solid malignancies.",
-      "reported_at": "2026-05-30T08:01:52.554048"
-    },
-    "42189880": {
-      "title": "Dual BCL-xL and BCL-2 Inhibition for Advanced Myeloid Neoplasms: A phase 1 dose-escalation study of Navitoclax, Venetoclax, and Decitabine.",
-      "reported_at": "2026-05-30T08:01:52.554048"
-    },
     "42191879": {
       "title": "Fibroblast growth factor receptor inhibition for succinate dehydrogenase-deficient gastrointestinal stromal tumors: a phase 2 trial.",
       "reported_at": "2026-05-31T08:30:54.283971"
@@ -2807,6 +2787,26 @@
     "43084004": {
       "title": "Consensus on procedural steps and end-product definition for robotic distal and total gastrectomy with D2 lymphadenectomy: the MASTER-D2 Delphi study.",
       "reported_at": "2026-11-26T03:52:38.711042"
+    },
+    "42933460": {
+      "title": "Sacituzumab tirumotecan versus treatment of physician's choice in previously treated endometrial cancer (TroFuse-005/ENGOT-en23/GOG-3095): a randomised, open-label, phase 3 trial.",
+      "reported_at": "2026-11-27T03:54:47.354292"
+    },
+    "43072045": {
+      "title": "Fertility-sparing treatment in uterine cancer: Oncological, reproductive and neonatal outcomes from a Nationwide PremEnCa cohort study.",
+      "reported_at": "2026-11-27T03:54:47.354292"
+    },
+    "43072046": {
+      "title": "Impact of CCNE1 amplification on progression-free and overall survival in patients with newly diagnosed BRCA1/2 wild-type ovarian cancer.",
+      "reported_at": "2026-11-27T03:54:47.354292"
+    },
+    "43085212": {
+      "title": "Assessment of artificial intelligence chatbot responses for gynecologic cancer management.",
+      "reported_at": "2026-11-27T03:54:47.354292"
+    },
+    "43078110": {
+      "title": "Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
+      "reported_at": "2026-11-27T03:54:47.354292"
     }
   }
 }
