@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42191879": {
-      "title": "Fibroblast growth factor receptor inhibition for succinate dehydrogenase-deficient gastrointestinal stromal tumors: a phase 2 trial.",
-      "reported_at": "2026-05-31T08:30:54.283971"
-    },
-    "42179207": {
-      "title": "Potent Anti-Tumor Activity of the AXL-Targeted Antibody-Drug Conjugate, Mipasetamab Uzoptirine (ADCT-601), in Preclinical Models of Adenoid Cystic Carcinoma.",
-      "reported_at": "2026-05-31T08:30:54.283971"
-    },
-    "42202789": {
-      "title": "Farnesylation-driven KRAS phase separation promotes colon tumor growth.",
-      "reported_at": "2026-05-31T08:30:54.283971"
-    },
     "42219860": {
       "title": "A randomised study of encorafenib, cetuximab, and FOLFIRI versus FOLFIRI with or without bevacizumab in BRAF V600E-mutant colorectal cancer: BREAKWATER Cohort 3.",
       "reported_at": "2026-06-01T19:15:35.174797"
@@ -2807,6 +2795,26 @@
     "43078110": {
       "title": "Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
       "reported_at": "2026-11-27T03:54:47.354292"
+    },
+    "42561120": {
+      "title": "Talquetamab in patients with relapsed/refractory multiple myeloma: 3-year follow-up of the phase 1/2 MonumenTAL-1 study.",
+      "reported_at": "2026-11-28T03:41:36.394405"
+    },
+    "43098296": {
+      "title": "Rucaparib versus docetaxel or second-generation androgen pathway inhibitor therapy for metastatic castration-resistant prostate cancer: final overall survival and safety from the phase III TRITON3 study.",
+      "reported_at": "2026-11-28T03:41:36.394405"
+    },
+    "42826158": {
+      "title": "New Food and Drug Administration-approved Treg therapy to reduce chronic GVHD after allogeneic HCT.",
+      "reported_at": "2026-11-28T03:41:36.394405"
+    },
+    "43085827": {
+      "title": "Harnessing the bone marrow stroma in acute myeloid leukemia: FAP-targeted costimulatory agonists potentiate T-cell bispecific antibody activity and preserve T-cell fitness.",
+      "reported_at": "2026-11-28T03:41:36.394405"
+    },
+    "42685001": {
+      "title": "CXXC1-dependent IRF4 activity promotes myeloma cell fitness and sustains lenalidomide resistance.",
+      "reported_at": "2026-11-28T03:41:36.394405"
     }
   }
 }
